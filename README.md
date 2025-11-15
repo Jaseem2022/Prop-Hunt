@@ -28,5 +28,3 @@ A **single-player Prop Hunt style game prototype** made in Unity. Players can ch
             └── CurrentProp (Cube / Cylinder / Cone etc.)
     ```
 ---
-## 🧩 Project Structure
-
